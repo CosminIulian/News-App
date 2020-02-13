@@ -1,2 +1,2 @@
 # News-App
- News feed application for ios devices
+ News feed application for iOS devices
