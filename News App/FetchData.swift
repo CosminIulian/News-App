@@ -11,7 +11,7 @@ import Foundation
 public class FetchData {
     
     private let urlString = "https://newsapi.org/v2"
-    private let API = "aa01566dcf2b45bfa42260c3b18cd229"
+    private let API = "" //MARK: Add your own API key
     
     
     // MARK: Create the string url for Top Headlines by country & category
